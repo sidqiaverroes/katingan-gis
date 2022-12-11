@@ -1,0 +1,1 @@
+var json_PEMDA_32 = {"type":"FeatureCollection","name":"PEMDA_32","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nama":"Kantor BAPPEDA Kab. Katingan","Kecamatan":null},"geometry":{"type":"Point","coordinates":[113.417369831602997,-1.87181637801067]}}]}

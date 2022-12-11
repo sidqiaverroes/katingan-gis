@@ -1,0 +1,1 @@
+var json_POLRES_27 = {"type":"FeatureCollection","name":"POLRES_27","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nama":"Polres Katingan","Kecamatan":null},"geometry":{"type":"Point","coordinates":[113.290543099424994,-1.88638293105989]}}]}

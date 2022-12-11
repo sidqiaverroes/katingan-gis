@@ -1,0 +1,1 @@
+var json_Terminal_13 = {"type":"FeatureCollection","name":"Terminal_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"NAMOBJ":"Tumbangsamba","REMARK":"Terminal Bus\/Angkutan Kendaraan Lainnya","Kecamatan":null},"geometry":{"type":"MultiPoint","coordinates":[[113.081706698000062,-1.463693703999979]]}}]}

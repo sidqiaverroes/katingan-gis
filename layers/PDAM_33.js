@@ -1,0 +1,1 @@
+var json_PDAM_33 = {"type":"FeatureCollection","name":"PDAM_33","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nama":"PDAM Katingan","Kecamatan":null},"geometry":{"type":"Point","coordinates":[113.384348828452005,-1.90389920119064]}}]}

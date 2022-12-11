@@ -1,0 +1,1 @@
+var json_POLSEK_30 = {"type":"FeatureCollection","name":"POLSEK_30","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nama":"Polsek Katingan Hilir","Kecamatan":null},"geometry":{"type":"Point","coordinates":[113.390418964226996,-1.90732361102021]}}]}

@@ -1,0 +1,1 @@
+var json_TELKOM_26 = {"type":"FeatureCollection","name":"TELKOM_26","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nama":"Kantor TELKOM Kasongan","Kecamatan":null},"geometry":{"type":"Point","coordinates":[113.391041884431999,-1.90826027042307]}}]}

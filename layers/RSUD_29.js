@@ -1,0 +1,1 @@
+var json_RSUD_29 = {"type":"FeatureCollection","name":"RSUD_29","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nama":"RSUD Mas Amsyar","Kecamatan":null},"geometry":{"type":"Point","coordinates":[113.378295355335993,-1.91820168625022]}}]}
